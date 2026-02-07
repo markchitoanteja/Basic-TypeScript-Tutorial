@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "tsc && terser assets/js/main.js -o assets/js/main.min.js --compress --mangle"
+  },
   "dependencies": {
     "jquery": "^4.0.0"
   },

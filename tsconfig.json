@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES2017",
+        "rootDir": "src",
+        "outDir": "assets/js",
+        "strict": false
+    },
+    "include": [
+        "src"
+    ]
+}
