@@ -1,13 +1,6 @@
-# Node
 node_modules/
-
-# Build output
-*.js
-*.min.js
-
-# Logs
+assets/js/*.js
+assets/js/*.min.js
 npm-debug.log*
-
-# OS
 .DS_Store
 Thumbs.db
