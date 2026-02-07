@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.33",
+    "terser": "^5.46.0"
+  }
+}
